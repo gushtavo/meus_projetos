@@ -1,0 +1,92 @@
+Name,Age,Sex,Pclass,Survived
+"Allen, Miss. Elisabeth Walton",29.0,female,1,1
+"Andrews, Miss. Kornelia Theodosia",63.0,female,1,1
+"Appleton, Mrs. Edward Dale (Charlotte Lamson)",53.0,female,1,1
+"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",18.0,female,1,1
+"Aubart, Mme. Leontine Pauline",24.0,female,1,1
+"Barber, Miss. Ellen ""Nellie""",26.0,female,1,1
+"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",50.0,female,1,1
+"Bazzani, Miss. Albina",32.0,female,1,1
+"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",47.0,female,1,1
+"Bidois, Miss. Rosalie",42.0,female,1,1
+"Bishop, Mrs. Dickinson H (Helen Walton)",19.0,female,1,1
+"Bissette, Miss. Amelia",35.0,female,1,1
+"Bonnell, Miss. Elizabeth",58.0,female,1,1
+"Bowerman, Miss. Elsie Edith",22.0,female,1,1
+"Brown, Mrs. James Joseph (Margaret Tobin)",44.0,female,1,1
+"Burns, Miss. Elizabeth Margaret",41.0,female,1,1
+"Carter, Miss. Lucile Polk",14.0,female,1,1
+"Carter, Mrs. William Ernest (Lucile Polk)",36.0,female,1,1
+"Chambers, Mrs. Norman Campbell (Bertha Griggs)",33.0,female,1,1
+"Cherry, Miss. Gladys",30.0,female,1,1
+"Chibnall, Mrs. (Edith Martha Bowerman)",,female,1,1
+"Cleaver, Miss. Alice",22.0,female,1,1
+"Compton, Miss. Sara Rebecca",39.0,female,1,1
+"Crosby, Miss. Harriet R",36.0,female,1,1
+"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",38.0,female,1,1
+"Dick, Mrs. Albert Adrian (Vera Gillespie)",17.0,female,1,1
+"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",48.0,female,1,1
+"Endres, Miss. Caroline Louise",38.0,female,1,1
+"Eustis, Miss. Elizabeth Mussey",54.0,female,1,1
+"Fleming, Miss. Margaret",,female,1,1
+"Fortune, Miss. Alice Elizabeth",24.0,female,1,1
+"Fortune, Miss. Mabel Helen",23.0,female,1,1
+"Francatelli, Miss. Laura Mabel",30.0,female,1,1
+"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",,female,1,1
+"Frolicher, Miss. Hedwig Margaritha",22.0,female,1,1
+"Futrelle, Mrs. Jacques Heath (Lily May Peel)",35.0,female,1,1
+"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",,female,1,1
+"Graham, Miss. Margaret Edith",19.0,female,1,1
+"Graham, Mrs. William Thompson (Edith Junkins)",58.0,female,1,1
+"Harper, Mrs. Henry Sleeper (Myna Haxtun)",49.0,female,1,1
+"Harris, Mrs. Henry Birkhardt (Irene Wallach)",35.0,female,1,1
+"Hays, Miss. Margaret Bechstein",24.0,female,1,1
+"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",52.0,female,1,1
+"Hippach, Miss. Jean Gertrude",16.0,female,1,1
+"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",44.0,female,1,1
+"Hogeboom, Mrs. John C (Anna Andrews)",51.0,female,1,1
+"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",35.0,female,1,1
+"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",35.0,female,1,1
+"Icard, Miss. Amelie",38.0,female,1,1
+"Kenyon, Mrs. Frederick R (Marion)",,female,1,1
+"LeRoy, Miss. Bertha",30.0,female,1,1
+"Leader, Dr. Alice (Farnham)",49.0,female,1,1
+"Lines, Miss. Mary Conover",16.0,female,1,1
+"Longley, Miss. Gretchen Fiske",21.0,female,1,1
+"Lurette, Miss. Elise",58.0,female,1,1
+"Madill, Miss. Georgette Alexandra",15.0,female,1,1
+"Maioni, Miss. Roberta",16.0,female,1,1
+"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",24.0,female,1,1
+"Meyer, Mrs. Edgar Joseph (Leila Saks)",,female,1,1
+"Minahan, Miss. Daisy E",33.0,female,1,1
+"Newell, Miss. Madeleine",31.0,female,1,1
+"Newell, Miss. Marjorie",23.0,female,1,1
+"Newsom, Miss. Helen Monypeny",19.0,female,1,1
+"Pears, Mrs. Thomas (Edith Wearne)",22.0,female,1,1
+"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",17.0,female,1,1
+"Perreault, Miss. Anne",30.0,female,1,1
+"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",56.0,female,1,1
+"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",43.0,female,1,1
+"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",33.0,female,1,1
+"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",54.0,female,1,1
+"Ryerson, Miss. Emily Borie",18.0,female,1,1
+"Ryerson, Miss. Susan Parker ""Suzette""",21.0,female,1,1
+"Sagesser, Mlle. Emma",24.0,female,1,1
+"Serepeca, Miss. Augusta",30.0,female,1,1
+"Shutes, Miss. Elizabeth W",40.0,female,1,1
+"Silvey, Mrs. William Baird (Alice Munger)",39.0,female,1,1
+"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",40.0,female,1,1
+"Spencer, Mrs. William Augustus (Marie Eugenie)",,female,1,1
+"Stephenson, Mrs. Walter Bertram (Martha Eustis)",52.0,female,1,1
+"Stone, Mrs. George Nelson (Martha Evelyn)",62.0,female,1,1
+"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",48.0,female,1,1
+"Taussig, Miss. Ruth",18.0,female,1,1
+"Taussig, Mrs. Emil (Tillie Mandelbaum)",39.0,female,1,1
+"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",,female,1,1
+"Thayer, Mrs. John Borland (Marian Longstreth Morris)",39.0,female,1,1
+"Thorne, Mrs. Gertrude Maybelle",,female,1,1
+"Ward, Miss. Anna",35.0,female,1,1
+"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",60.0,female,1,1
+"Wick, Miss. Mary Natalie",31.0,female,1,1
+"Wick, Mrs. George Dennick (Mary Hitchcock)",45.0,female,1,1
+"Young, Miss. Marie Grice",36.0,female,1,1
